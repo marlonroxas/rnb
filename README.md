@@ -1,4 +1,3 @@
-# portfolio-jerga-app
 Next.js Serverless App - Udemy course material
 
 
