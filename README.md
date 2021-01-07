@@ -1,7 +1,7 @@
 Next.js Serverless App - Udemy course material
 
 
-### 1. Run `npm install` to install all of the dependencies
+### 1. Run `yarn install` to install all of the dependencies
 
 ### 2. in root folder create `env.development.local` file with following content:
 ```javascript
@@ -18,4 +18,4 @@ PORTFOLIO_API_URL=http://localhost:3000/api/v1
 BASE_URL=http://localhost:3000
 ```
 
-### 3. run `npm run dev`
+### 3. run `yarn dev`
